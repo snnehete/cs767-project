@@ -1,1 +1,2 @@
-# cs767-project
+# Movie Revenue Prediction
+by Shrunkhala Nehete
